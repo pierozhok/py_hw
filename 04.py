@@ -13,4 +13,3 @@ lst = res.split(' ')
 for s in lst:
     sum += int(s)
 print(sum)
-        
